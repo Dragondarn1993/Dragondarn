@@ -2,7 +2,7 @@
 title: Das  Gilden-Team
 description: Informationen über die Gildenleitung
 published: true
-date: 2023-03-31T13:46:13.844Z
+date: 2023-03-31T13:51:40.958Z
 tags: weißlöwen-das-gilden-team
 editor: markdown
 dateCreated: 2023-03-31T13:27:26.765Z
@@ -21,7 +21,7 @@ Der Gilden-Administrator kümmert sich um den technischen Bereich der Gilde. Er 
 Die Mentoren sind für die offiziellen Gilden-Events zuständig und leiten diese. Sie erstellen Events mittels Alleva und monitoren diese. Außerdem beantworten sie Fragen zu Guild Wars relevanten dingen und sorgen für Ordnung im In-Game Gildenchat.
 
 ## Admin
-Die Admin Rolle ist eine Sonderrang, die nur die höchsten Serveradmins bekommen. Sie haben Vollzugriff auf den Server und können jede Rolleneinschränkung umgehen.
+Die Admin Rolle ist eine Sonderrolle, die nur die höchsten Serveradmins bekommen. Sie haben Vollzugriff auf den Server und können jede Rolleneinschränkung umgehen.
 
 # Die Teammitglieder
 
