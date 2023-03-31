@@ -2,14 +2,14 @@
 title: Das  Gilden-Team
 description: Informationen über die Gildenleitung
 published: true
-date: 2023-03-31T13:51:40.958Z
+date: 2023-03-31T13:59:40.212Z
 tags: weißlöwen-das-gilden-team
 editor: markdown
 dateCreated: 2023-03-31T13:27:26.765Z
 ---
 
 # Das Gilden-Team
-Das Gilden-Ream besteht aus verschiedenen Bereichen. Damit ihr wisst, wer was macht gibt es hir eine Erläuterung.
+Das Gilden-Team besteht aus verschiedenen Bereichen. Damit ihr wisst, wer was macht gibt es hir eine Erläuterung.
 
 ## Gildenleitung
 Die Gildenleitung leitet die komplette Gilde.
