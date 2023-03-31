@@ -2,7 +2,7 @@
 title: Wilkommen
 description: Wilkommen
 published: true
-date: 2023-03-31T12:33:57.818Z
+date: 2023-03-31T12:34:00.234Z
 tags: weißlöwen-wilkommen
 editor: markdown
 dateCreated: 2023-03-31T00:08:01.030Z

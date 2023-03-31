@@ -2,7 +2,7 @@
 title: Das  Gilden-Team
 description: Informationen über die Gildenleitung
 published: true
-date: 2023-03-31T13:59:40.212Z
+date: 2023-03-31T13:59:42.449Z
 tags: weißlöwen-das-gilden-team
 editor: markdown
 dateCreated: 2023-03-31T13:27:26.765Z
