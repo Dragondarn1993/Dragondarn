@@ -2,7 +2,7 @@
 title: Impressum
 description: Serviceanbieter Informationen
 published: true
-date: 2023-04-01T18:49:27.680Z
+date: 2023-04-01T18:55:43.793Z
 tags: impressum
 editor: markdown
 dateCreated: 2023-04-01T18:38:03.337Z
@@ -48,7 +48,7 @@ Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Online
 - [Twitter *Der offizielle Twitteraccount von Dragondarn*](https://twitter.com/Dragondarn)
 - [Instagram *Der offizielle Instagramaccount von Dragondarn*](https://www.instagram.com/dragondarn1768/)
 - [Twitch *Der offizielle Twitchkanal von Dragondarn (aktuell nicht in benutzung)*](https://www.twitch.tv/dragondarn)
-- [Mastodon *Der offizielle MastodonAccount von Dragondarn*](https://mastodon.social/@dragondarn)
+- [Mastodon *Der offizielle Mastodonaccount von Dragondarn*](https://mastodon.social/@dragondarn)
 {.links-list}
 
 ## HAFTUNGS- UND SCHUTZRECHTSHINWEISE
