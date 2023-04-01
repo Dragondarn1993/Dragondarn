@@ -2,7 +2,7 @@
 title: Impressum
 description: Serviceanbieter Informationen
 published: true
-date: 2023-04-01T18:55:43.793Z
+date: 2023-04-01T19:24:24.822Z
 tags: impressum
 editor: markdown
 dateCreated: 2023-04-01T18:38:03.337Z
@@ -39,11 +39,12 @@ Nicolas Wildebrand
 
 ## AUDIOVISUELLE MEDIENDIENSTE
 Sitzland: Deutschland
-Zuständige Regulierungs-, bzw. Aufsichtsbehörde: Medienanstalt Hamburg / Schleswig-Holstein (MA HSH), https://www.ma-hsh.de/
+Zuständige Regulierungs-, bzw. Aufsichtsbehörde:
+- [MA HSH *Medienanstalt Hamburg / Schleswig-Holstein*](https://www.ma-hsh.de/)
+{.links-list}
 
 ## SOCIAL MEDIA UND ANDERE ONLINEPRÄSENZEN
 Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:
-
 - [YouTube Hauptkanal *Der offizielle YouTube Kanal von Dragondarn*](https://www.youtube.com/@DragondarnDE)
 - [Twitter *Der offizielle Twitteraccount von Dragondarn*](https://twitter.com/Dragondarn)
 - [Instagram *Der offizielle Instagramaccount von Dragondarn*](https://www.instagram.com/dragondarn1768/)
