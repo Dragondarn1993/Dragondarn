@@ -2,7 +2,7 @@
 title: Impressum
 description: Serviceanbieter Informationen
 published: true
-date: 2023-04-01T19:24:24.822Z
+date: 2023-04-01T19:33:12.796Z
 tags: impressum
 editor: markdown
 dateCreated: 2023-04-01T18:38:03.337Z
@@ -19,10 +19,6 @@ dateCreated: 2023-04-01T18:38:03.337Z
 > Bei Zuwiderhandlung können rechtliche Schritte eingeleitet werden.
 {.is-warning}
 
-> Beim Kontaktieren per E-Mail, bitte das (at) durch @ ersetzen.
-{.is-info}
-
-
 ## DIENSTEANBIETER
 Nicolas Wildebrand
 Gräflingsberg 5a
@@ -33,6 +29,9 @@ Deutschland (Germany)
 E-Mail-Adresse: dragondarn(at)outlook.com
 Telefon: Bitte per E-Mail anfragen
 Fax: Nicht vorhanden
+
+> Beim Kontaktieren per E-Mail, bitte das (at) durch @ ersetzen.
+{.is-info}
 
 ## VERTRETUNGSBERECHTIGTE
 Nicolas Wildebrand
