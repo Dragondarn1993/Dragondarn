@@ -2,7 +2,7 @@
 title: Impressum
 description: Serviceanbieter Informationen
 published: true
-date: 2023-04-01T19:33:12.796Z
+date: 2023-04-01T19:42:08.603Z
 tags: impressum
 editor: markdown
 dateCreated: 2023-04-01T18:38:03.337Z
@@ -26,7 +26,7 @@ Gräflingsberg 5a
 Deutschland (Germany)
 
 ## KONTAKTMÖGLICHKEITEN
-E-Mail-Adresse: dragondarn(at)outlook.com
+E-Mail-Adresse: <kbd>dragondarn(at)outlook.com</kbd>
 Telefon: Bitte per E-Mail anfragen
 Fax: Nicht vorhanden
 
