@@ -2,21 +2,13 @@
 title: Impressum
 description: Serviceanbieter Informationen
 published: true
-date: 2023-04-01T19:42:10.860Z
+date: 2023-04-02T12:52:21.437Z
 tags: impressum
 editor: markdown
 dateCreated: 2023-04-01T18:38:03.337Z
 ---
 
-> - Der Missbrauch dieser Informationen ist nicht erlaubt und Illegal. Bitte Unterlassen sie es, an diese Kontaktinformationen Spam- und Phishingnachrichten zu versenden.
-> 
-> - Diese Informationen dürfen nicht Verkauft werden oder anderweitig ohne Erlaubnis der Vertretungsberechtigten weiterverbreitet werden.
->
-> - Unterlassen sie es, an diese Kontaktinformationen ohne vorherige Einwilligung der Vertretungsberechtigten Werbung zu senden.
-> 
-> - Das Aufsuchen der in den Kontaktinformationen genannten Adresse, ist ohne vorheriger Einwilligung der Vertretungsberechtigten von dritten nicht erlaubt.
-> 
-> Bei Zuwiderhandlung können rechtliche Schritte eingeleitet werden.
+ > Die vorstehenden Daten dürfen nur im Rahmen technischer oder administrativer Notwendigkeiten des Internetbetriebs oder zur Behebung rechtlicher Probleme genutzt werden. Die Nutzung zu anderen Zwecken, insbesondere für Werbung, ist unzulässig.
 {.is-warning}
 
 ## DIENSTEANBIETER
