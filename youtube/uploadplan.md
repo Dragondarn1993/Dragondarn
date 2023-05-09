@@ -2,7 +2,7 @@
 title: Uploadplan
 description: Was läuft gerade und was ist geplant
 published: true
-date: 2023-05-09T13:48:05.624Z
+date: 2023-05-09T14:16:02.609Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-09T12:51:52.701Z
@@ -42,6 +42,9 @@ Der Upload Plan ist dafür da, um euch darüber zu informieren, was gerade läuf
 | Tales from Candlekeep: Tomb of Annihilation | PC - Steam | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbvQagj56LdbIX4-OCBDEyk) |
 | Halo Combat Evolved Anniversary | PC - Xbox Game Pass | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HaTFJXNBKFgGQUAjqlWJeXk) |
 | SpellForce 2 Demons of the Past | PC - Steam | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbnZlOlnOF4TDBc9txJxYM4) |
+| Tetris Effect Connected | PC - Xbox Game Pass | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HYBcN-6jbUnLYsF6rLRkkpW) |
+| Guild Wars 2 Die Eisbrut Saga | PC - Standalone | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZwW8mfzs5x-orcGzUiz-fo) |
+| SpellForce 2 Faith in Destiny | PC - Steam | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZE4-Ks2RbkMk-b6mNL2Prq) |
 
 ## Abgebrochen
 
