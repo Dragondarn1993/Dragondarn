@@ -2,7 +2,7 @@
 title: Uploadplan
 description: Was läuft gerade und was ist geplant
 published: true
-date: 2023-05-09T14:42:52.714Z
+date: 2023-05-09T15:30:57.291Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-09T12:51:52.701Z
@@ -49,6 +49,16 @@ Der Upload Plan ist dafür da, um euch darüber zu informieren, was gerade läuf
 |Halo Reach                                       |PC - Xbox Game Pass         |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbUyib5b1Jma1ZL7xeLLARJ)|
 |Torchlight 3                                     |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbYKPTUOfIwt1OFmizIbvs0)|
 |SpellForce 2 Dragon Storm                        |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HacYmGsJqsxqhkEv68hvypA)|
+|Thronebreaker The Witcher Tale                   |PC - GOG Galaxy             |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HboRrTrigzCGCFaoKQQnTg3)|
+|NieR Automata                                    |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZ7JLpHVt9vMKJ40ct8soX7)|
+|SpellForce 2 Shadow Wars                         |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbIHum3Uptwoo8DhMJf6IT2)|
+|Book of Demons                                   |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbefglBfpWuEodqfWFQZneP)|
+|SpellForce Shadow of the Phoenix                 |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZwjOEdaH0F5pOIaQk-q--x)|
+|Spyro Year of the Dragon                         |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbkgGBntVBSEo4HuYQJtoEy)|
+|Spyro 2 Riptos Rage                              |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HaMQi-YdAtKOkvJ-S0nAyRt)|
+|Spyro the Dragon                                 |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZpzCh8VQfKGe4UR6dYcufe)|
+|StarCraft 2 Hearth of the Swarm                  |PC - Battle.net             |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HaOT5BB9qyUr-q40QBBsEPX)|
+|SpellForce The Breath of Winter                  |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbHA3uEnQm9vWv7cmNLaJrs)|
 
 ## Abgebrochen
 
