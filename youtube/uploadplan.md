@@ -2,13 +2,15 @@
 title: Uploadplan
 description: Was läuft gerade und was ist geplant
 published: true
-date: 2023-05-09T14:16:02.609Z
+date: 2023-05-09T14:16:16.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-09T12:51:52.701Z
 ---
 
 > Der Upload Plan ist noch im Aufbau. Es fehlen noch Einträge.
+{.is-info}
+
 
 # Upload Plan
 
