@@ -2,7 +2,7 @@
 title: Uploadplan
 description: Was läuft gerade und was ist geplant
 published: true
-date: 2023-05-09T15:30:57.291Z
+date: 2023-05-14T21:39:56.353Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-09T12:51:52.701Z
@@ -19,7 +19,7 @@ Der Upload Plan ist dafür da, um euch darüber zu informieren, was gerade läuf
 
 |Spielname                                        |Platform                    |Status                    |Playlist-Link                                                                   |
 |-------------------------------------------------|----------------------------|--------------------------|--------------------------------------------------------------------------------|
-|Ni No Kuni 1                                     |PC - Xbox Game Pass         |Upload/Am Veröffentlichen |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HaEeEj3wCDI-4Rk4g-BBenR)|
+|Ni No Kuni 1                                     |PC - Xbox Game Pass         |Läuft                     |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HaEeEj3wCDI-4Rk4g-BBenR)|
 |Guild Wars 2 End of Dragons                      |PC - Standalone             |Langzeitprojekt           |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HafKzsD4FrgYt8A71fzhV6D)|
 
 ## Geplant
@@ -51,7 +51,6 @@ Der Upload Plan ist dafür da, um euch darüber zu informieren, was gerade läuf
 |SpellForce 2 Dragon Storm                        |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HacYmGsJqsxqhkEv68hvypA)|
 |Thronebreaker The Witcher Tale                   |PC - GOG Galaxy             |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HboRrTrigzCGCFaoKQQnTg3)|
 |NieR Automata                                    |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZ7JLpHVt9vMKJ40ct8soX7)|
-|SpellForce 2 Shadow Wars                         |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbIHum3Uptwoo8DhMJf6IT2)|
 |Book of Demons                                   |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbefglBfpWuEodqfWFQZneP)|
 |SpellForce Shadow of the Phoenix                 |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZwjOEdaH0F5pOIaQk-q--x)|
 |Spyro Year of the Dragon                         |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbkgGBntVBSEo4HuYQJtoEy)|
@@ -59,8 +58,13 @@ Der Upload Plan ist dafür da, um euch darüber zu informieren, was gerade läuf
 |Spyro the Dragon                                 |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZpzCh8VQfKGe4UR6dYcufe)|
 |StarCraft 2 Hearth of the Swarm                  |PC - Battle.net             |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HaOT5BB9qyUr-q40QBBsEPX)|
 |SpellForce The Breath of Winter                  |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbHA3uEnQm9vWv7cmNLaJrs)|
+|Guild Wars 2 Mods                                |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HYXjSyU1j3YxdzoOihmlLOX)|
+|Ni No Kuni 2 Revenant Kingdom                    |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HbMZjjxr4zw1jEQ-0ZX4xQz)|
+|Guild Wars 2 LW Staffel 4                        |PC - Standalone             |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7Hbzw6w4N6t3VArxTQkNsDnz)|
+|SpellForce The Order of Dawn                     |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HYqUn2CB6CQj6HepmyFbQal)|
 
 ## Abgebrochen
 
 |Spielname                                        |Platform                    |Status                    |Playlist-Link                                                                   |Grund                               |
 |-------------------------------------------------|----------------------------|--------------------------|--------------------------------------------------------------------------------|------------------------------------|
+|SpellForce Shadow of the Phoenix                 |PC - Steam                  |Fertig                    |[Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZwjOEdaH0F5pOIaQk-q--x)|Bug hat weiterspielen verhindert    |
