@@ -2,7 +2,7 @@
 title: Datenschutzerklärung
 description: 
 published: true
-date: 2023-06-19T23:31:23.197Z
+date: 2023-11-17T14:28:20.839Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-19T23:29:19.904Z
