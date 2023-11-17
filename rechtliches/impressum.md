@@ -2,7 +2,7 @@
 title: Impressum
 description: Serviceanbieter Informationen
 published: true
-date: 2023-04-02T12:52:21.437Z
+date: 2023-11-17T14:28:07.569Z
 tags: impressum
 editor: markdown
 dateCreated: 2023-04-01T18:38:03.337Z
