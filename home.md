@@ -2,7 +2,7 @@
 title: Startseite
 description: Startseite
 published: true
-date: 2023-08-08T18:32:39.211Z
+date: 2023-11-17T14:27:52.315Z
 tags: home
 editor: markdown
 dateCreated: 2023-03-31T14:26:33.953Z
