@@ -2,7 +2,7 @@
 title: Uploadplan
 description: Was läuft gerade und was ist geplant
 published: true
-date: 2023-06-28T14:47:09.526Z
+date: 2023-11-20T20:12:51.947Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-09T12:51:52.701Z
@@ -18,22 +18,32 @@ Der Upload Plan ist dafür da, um euch darüber zu informieren, was gerade läuf
 
 | Spielname | Platform | Status | Playlist-Link |
 | --- | --- | --- | --- |
-| Ni No Kuni 1 | PC - Xbox Game Pass | Läuft | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HaEeEj3wCDI-4Rk4g-BBenR) |
+| Diablo 2 Resurrected | PC - Battle.net | Läuft | [Playlist](https://www.youtube.com/playlist?list=PL4s0gIgia7HaYScTq1uIM7IP2sJhkY69r) |
+| Guild Wars 2 Secrets of the Obscure | PC - Standalone | Läuft/Langzeitprojekt | [Playlist](https://www.youtube.com/playlist?list=PL4s0gIgia7HaGEbOda2XZSmLYPvgpPWt7) |
 
 ## Geplant
 
 | Spielname | Platform | Status | Zusätzliche Hinweise |
 | --- | --- | --- | --- |
-| Guild Wars 2 Secrets of the Obscure | PC - Standalone | Geplant | Erweiterung + Langzeitprojekt |
-| Hi-Fi RUSH | PC - Game Pass | Geplant |     |
-| Diablo 2 Resurrected | PC - Battle.net | Geplant | Hauptspiel + LoD, Kein HC und keine Season |
 | Mass Effect 2 | PC - EA | Geplant | Legendary Edition |
 | Mass Effect 3 | PC - EA | Geplant | Legendary Edition |
+| Baldurs Gate 3 | PC - Steam | Geplant |     |
+| Diablo Immortal | PC - Battle.net | Geplant |     |
+| Diablo 3 | PC - Battle.net | Geplant |     |
+| Diablo 4 | PC - Battle.net | Geplant |     |
+| Starfield | PC - Steam | Geplant |     |
+| SpellForce 3: Fallen God | PC - Steam | Geplant |     |
+| Mass Effect Andromedar | PC - EA | Geplant |     |
+| Last Epoch | PC - Steam | Geplant |     |
+| Path of Exile | PC - Steam | Geplant |     |
+| Path of Exile 2 | PC  | Geplant |     |
 
 ## Fertig
 
 | Spielname | Platform | Status | Playlist-Link |
 | --- | --- | --- | --- |
+| Hi-Fi RUSH | PC - Game Pass | Fertig | [Playlist](https://www.youtube.com/playlist?list=PL4s0gIgia7HZ4VCVOUMzoCme6YKKx5MbK) |
+| Ni No Kuni 1 | PC - Xbox Game Pass | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HaEeEj3wCDI-4Rk4g-BBenR) |
 | Guild Wars 2 End of Dragons | PC - Standalone | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HafKzsD4FrgYt8A71fzhV6D) |
 | Metal Hellsinger | PC - Xbox Game Pass | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HYtdt-pqmNKPREeJy3i8YHk) |
 | Halo 2 Anniversary | PC - Xbox Game Pass | Fertig | [Playlist](https://youtube.com/playlist?list=PL4s0gIgia7HZcvywBkgqnyz15nYSxxI3V) |
