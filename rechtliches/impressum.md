@@ -16,7 +16,6 @@ Nicolas Wildebrand
 Gräflingsberg 5a
 
 24558 Henstedt-Ulzburg
-
 Deutschland (Germany)
 
 ## KONTAKTMÖGLICHKEITEN
