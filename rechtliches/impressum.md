@@ -21,7 +21,9 @@ Deutschland (Germany)
 
 ## KONTAKTMÖGLICHKEITEN
 E-Mail-Adresse: <kbd>dragondarn(at)outlook.com</kbd>
+
 Telefon: Bitte per E-Mail anfragen
+
 Fax: Nicht vorhanden
 
 > Beim Kontaktieren per E-Mail, bitte das (at) durch @ ersetzen.
