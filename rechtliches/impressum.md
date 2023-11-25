@@ -9,7 +9,6 @@ dateCreated: 2023-04-01T18:38:03.337Z
 ---
 
  > Die vorstehenden Daten dürfen nur im Rahmen technischer oder administrativer Notwendigkeiten des Internetbetriebs oder zur Behebung rechtlicher Probleme genutzt werden. Die Nutzung zu anderen Zwecken, insbesondere für Werbung, ist unzulässig.
-{.is-warning}
 
 ## DIENSTEANBIETER
 Nicolas Wildebrand
@@ -23,7 +22,6 @@ Telefon: Bitte per E-Mail anfragen
 Fax: Nicht vorhanden
 
 > Beim Kontaktieren per E-Mail, bitte das (at) durch @ ersetzen.
-{.is-info}
 
 ## VERTRETUNGSBERECHTIGTE
 Nicolas Wildebrand
