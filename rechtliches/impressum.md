@@ -1,13 +1,3 @@
----
-title: Impressum
-description: Serviceanbieter Informationen
-published: true
-date: 2023-11-17T14:28:07.569Z
-tags: impressum
-editor: markdown
-dateCreated: 2023-04-01T18:38:03.337Z
----
-
  > Die vorstehenden Daten dürfen nur im Rahmen technischer oder administrativer Notwendigkeiten des Internetbetriebs oder zur Behebung rechtlicher Probleme genutzt werden. Die Nutzung zu anderen Zwecken, insbesondere für Werbung, ist unzulässig.
 
 ## DIENSTEANBIETER
