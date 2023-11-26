@@ -10,7 +10,7 @@ Gräflingsberg 5a
 Deutschland (Germany)
 
 ## KONTAKTMÖGLICHKEITEN
-E-Mail-Adresse: <kbd>dragondarn(at)outlook.com</kbd>
+E-Mail-Adresse: dragondarn(at)outlook.com
 
 Telefon: Bitte per E-Mail anfragen
 
