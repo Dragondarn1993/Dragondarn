@@ -25,7 +25,6 @@ Nicolas Wildebrand
 Sitzland: Deutschland
 Zuständige Regulierungs-, bzw. Aufsichtsbehörde:
 - [MA HSH *Medienanstalt Hamburg / Schleswig-Holstein*](https://www.ma-hsh.de/)
-{.links-list}
 
 ## SOCIAL MEDIA UND ANDERE ONLINEPRÄSENZEN
 Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile:
