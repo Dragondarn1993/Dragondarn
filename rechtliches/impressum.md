@@ -34,7 +34,6 @@ Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Online
 - [Instagram *Der offizielle Instagramaccount von Dragondarn*](https://www.instagram.com/dragondarn1768/)
 - [Twitch *Der offizielle Twitchkanal von Dragondarn (aktuell nicht in benutzung)*](https://www.twitch.tv/dragondarn)
 - [Mastodon *Der offizielle Mastodonaccount von Dragondarn*](https://mastodon.social/@dragondarn)
-{.links-list}
 
 ## HAFTUNGS- UND SCHUTZRECHTSHINWEISE
 
