@@ -23,6 +23,7 @@ Nicolas Wildebrand
 
 ## AUDIOVISUELLE MEDIENDIENSTE
 Sitzland: Deutschland
+
 Zuständige Regulierungs-, bzw. Aufsichtsbehörde:
 - [MA HSH *Medienanstalt Hamburg / Schleswig-Holstein*](https://www.ma-hsh.de/)
 
